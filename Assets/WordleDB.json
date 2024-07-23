@@ -1,0 +1,901 @@
+{
+  "words": [
+{
+  "kelime": "abide"
+},
+{
+  "kelime": "abiye"
+},
+{
+  "kelime": "acemi"
+},
+{
+  "kelime": "ahbap"
+},
+{
+  "kelime": "ahize"
+},
+{
+  "kelime": "ahkam"
+},
+{
+  "kelime": "altın"
+},
+{
+  "kelime": "aktör"
+},
+{
+  "kelime": "aktif"
+},
+{
+  "kelime": "akrep"
+},
+{
+  "kelime": "bacak"
+},
+{
+  "kelime": "badem"
+},
+{
+  "kelime": "bakır"
+},
+{
+  "kelime": "bahar"
+},
+{
+  "kelime": "baret"
+},
+{
+  "kelime": "banyo"
+},
+{
+  "kelime": "barış"
+},
+{
+  "kelime": "beden"
+},
+{
+  "kelime": "bayır"
+},
+{
+  "kelime": "belde"
+},
+{
+  "kelime": "beleş"
+},
+{
+  "kelime": "beste"
+},
+{
+  "kelime": "cacık"
+},
+{
+  "kelime": "cahil"
+},
+{
+  "kelime": "ceviz"
+},
+{
+  "kelime": "cezir"
+},
+{
+  "kelime": "ciğer"
+},
+{
+  "kelime": "cirit"
+},
+{
+  "kelime": "cisim"
+},
+{
+  "kelime": "civan"
+},
+{
+  "kelime": "cüsse"
+},
+{
+  "kelime": "coşku"
+},
+{
+  "kelime": "civar"
+},
+{
+  "kelime": "çabuk"
+},
+{
+  "kelime": "çadır"
+},
+{
+  "kelime": "çakal"
+},
+{
+  "kelime": "çakır"
+},
+{
+  "kelime": "çalgı"
+},
+{
+  "kelime": "çıkış"
+},
+{
+  "kelime": "çıyan"
+},
+{
+  "kelime": "çimen"
+},
+{
+  "kelime": "çello"
+},
+{
+  "kelime": "çeşni"
+},
+{
+  "kelime": "dadaş"
+},
+{
+  "kelime": "daimi"
+},
+{
+  "kelime": "diken"
+},
+{
+  "kelime": "denek"
+},
+{
+  "kelime": "detay"
+},
+{
+  "kelime": "dikey"
+},
+{
+  "kelime": "dilek"
+},
+{
+  "kelime": "dilim"
+},
+{
+  "kelime": "demir"
+},
+{
+  "kelime": "demin"
+},
+{
+  "kelime": "edebi"
+},
+{
+  "kelime": "efekt"
+},
+{
+  "kelime": "eklem"
+},
+{
+  "kelime": "ekler"
+},
+{
+  "kelime": "ekose"
+},
+{
+  "kelime": "ekran"
+},
+{
+  "kelime": "engel"
+},
+{
+  "kelime": "endam"
+},
+{
+  "kelime": "eskiz"
+},
+{
+  "kelime": "ejder"
+},
+{
+  "kelime": "emzik"
+},
+{
+  "kelime": "esnaf"
+},
+{
+  "kelime": "fakir"
+},
+{
+  "kelime": "falso"
+},
+{
+  "kelime": "fanus"
+},
+{
+  "kelime": "fazla"
+},
+{
+  "kelime": "fener"
+},
+{
+  "kelime": "felek"
+},
+{
+  "kelime": "forum"
+},
+{
+  "kelime": "fosil"
+},
+{
+  "kelime": "funda"
+},
+{
+  "kelime": "folyo"
+},
+{
+  "kelime": "fizik"
+},
+{
+  "kelime": "gafil"
+},
+{
+  "kelime": "galip"
+},
+{
+  "kelime": "geçim"
+},
+{
+  "kelime": "giyim"
+},
+{
+  "kelime": "gitar"
+},
+{
+  "kelime": "giriş"
+},
+{
+  "kelime": "gönül"
+},
+{
+  "kelime": "gizem"
+},
+{
+  "kelime": "göbek"
+},
+{
+  "kelime": "göçük"
+},
+{
+  "kelime": "göğüs"
+},
+{
+  "kelime": "haber"
+},
+{
+  "kelime": "hacim"
+},
+{
+  "kelime": "haciz"
+},
+{
+  "kelime": "hafta"
+},
+{
+  "kelime": "hamam"
+},
+{
+  "kelime": "havuz"
+},
+{
+  "kelime": "hariç"
+},
+{
+  "kelime": "hatır"
+},
+{
+  "kelime": "hasar"
+},
+{
+  "kelime": "hasat"
+},
+{
+  "kelime": "hatim"
+},
+{
+  "kelime": "havuç"
+},
+{
+  "kelime": "humus"
+},
+{
+  "kelime": "hekim"
+},
+{
+  "kelime": "ılgaz"
+},
+{
+  "kelime": "ırgat"
+},
+{
+  "kelime": "ırmak"
+},
+{
+  "kelime": "ıslak"
+},
+{
+  "kelime": "ıslah"
+},
+{
+  "kelime": "ıslık"
+},
+{
+  "kelime": "ısrar"
+},
+{
+  "kelime": "ıssız"
+},
+{
+  "kelime": "ibare"
+},
+{
+  "kelime": "iblis"
+},
+{
+  "kelime": "içeri"
+},
+{
+  "kelime": "içlik"
+},
+{
+  "kelime": "ihbar"
+},
+{
+  "kelime": "ispat"
+},
+{
+  "kelime": "iştah"
+},
+{
+  "kelime": "ihtar"
+},
+{
+  "kelime": "ilmek"
+},
+{
+  "kelime": "japon"
+},
+{
+  "kelime": "jeton"
+},
+{
+  "kelime": "jilet"
+},
+{
+  "kelime": "joker"
+},
+{
+  "kelime": "jokey"
+},
+{
+  "kelime": "kablo"
+},
+{
+  "kelime": "kadem"
+},
+{
+  "kelime": "kahve"
+},
+{
+  "kelime": "kaide"
+},
+{
+  "kelime": "karar"
+},
+{
+  "kelime": "karın"
+},
+{
+  "kelime": "katil"
+},
+{
+  "kelime": "kavak"
+},
+{
+  "kelime": "kayık"
+},
+{
+  "kelime": "kayış"
+},
+{
+  "kelime": "keman"
+},
+{
+  "kelime": "kemer"
+},
+{
+  "kelime": "kefil"
+},
+{
+  "kelime": "leman"
+},
+{
+  "kelime": "lider"
+},
+{
+  "kelime": "lisan"
+},
+{
+  "kelime": "lodos"
+},
+{
+  "kelime": "lokma"
+},
+{
+  "kelime": "lüfer"
+},
+{
+  "kelime": "lazer"
+},
+{
+  "kelime": "leman"
+},
+{
+  "kelime": "leyla"
+},
+{
+  "kelime": "lütuf"
+},
+{
+  "kelime": "lirik"
+},
+{
+  "kelime": "litre"
+},
+{
+  "kelime": "magma"
+},
+{
+  "kelime": "mahal"
+},
+{
+  "kelime": "makro"
+},
+{
+  "kelime": "manto"
+},
+{
+  "kelime": "makas"
+},
+{
+  "kelime": "mikro"
+},
+{
+  "kelime": "meyve"
+},
+{
+  "kelime": "mamut"
+},
+{
+  "kelime": "nabız"
+},
+{
+  "kelime": "nadir"
+},
+{
+  "kelime": "nakış"
+},
+{
+  "kelime": "nefes"
+},
+{
+  "kelime": "nehir"
+},
+{
+  "kelime": "nöron"
+},
+{
+  "kelime": "nüfuz"
+},
+{
+  "kelime": "nöbet"
+},
+{
+  "kelime": "noter"
+},
+{
+  "kelime": "niyet"
+},
+{
+  "kelime": "obruk"
+},
+{
+  "kelime": "oğlak"
+},
+{
+  "kelime": "oğlan"
+},
+{
+  "kelime": "oktav"
+},
+{
+  "kelime": "omlet"
+},
+{
+  "kelime": "orman"
+},
+{
+  "kelime": "otçul"
+},
+{
+  "kelime": "oynak"
+},
+{
+  "kelime": "ortam"
+},
+{
+  "kelime": "ödlek"
+},
+{
+  "kelime": "ödünç"
+},
+{
+  "kelime": "ölçek"
+},
+{
+  "kelime": "önder"
+},
+{
+  "kelime": "önlük"
+},
+{
+  "kelime": "öznel"
+},
+{
+  "kelime": "özgün"
+},
+{
+  "kelime": "övünç"
+},
+{
+  "kelime": "pabuç"
+},
+{
+  "kelime": "palto"
+},
+{
+  "kelime": "paket"
+},
+{
+  "kelime": "pınar"
+},
+{
+  "kelime": "pembe"
+},
+{
+  "kelime": "peron"
+},
+{
+  "kelime": "posta"
+},
+{
+  "kelime": "poşet"
+},
+{
+  "kelime": "pişti"
+},
+{
+  "kelime": "plaka"
+},
+{
+  "kelime": "racon"
+},
+{
+  "kelime": "radyo"
+},
+{
+  "kelime": "rapor"
+},
+{
+  "kelime": "resul"
+},
+{
+  "kelime": "resim"
+},
+{
+  "kelime": "resmi"
+},
+{
+  "kelime": "ritim"
+},
+{
+  "kelime": "rozet"
+},
+{
+  "kelime": "rötar"
+},
+{
+  "kelime": "rulet"
+},
+{
+  "kelime": "rütbe"
+},
+{
+  "kelime": "sabah"
+},
+{
+  "kelime": "sabır"
+},
+{
+  "kelime": "sahte"
+},
+{
+  "kelime": "saray"
+},
+{
+  "kelime": "sedye"
+},
+{
+  "kelime": "sibop"
+},
+{
+  "kelime": "sinir"
+},
+{
+  "kelime": "surat"
+},
+{
+  "kelime": "sürgü"
+},
+{
+  "kelime": "siren"
+},
+{
+  "kelime": "sözel"
+},
+{
+  "kelime": "şafak"
+},
+{
+  "kelime": "şahıs"
+},
+{
+  "kelime": "şeker"
+},
+{
+  "kelime": "şınav"
+},
+{
+  "kelime": "şeref"
+},
+{
+  "kelime": "şirin"
+},
+{
+  "kelime": "şölen"
+},
+{
+  "kelime": "şubat"
+},
+{
+  "kelime": "şurup"
+},
+{
+  "kelime": "şüphe"
+},
+{
+  "kelime": "tanrı"
+},
+{
+  "kelime": "tempo"
+},
+{
+  "kelime": "terzi"
+},
+{
+  "kelime": "tomar"
+},
+{
+  "kelime": "tenha"
+},
+{
+  "kelime": "tiner"
+},
+{
+  "kelime": "tokat"
+},
+{
+  "kelime": "tuzak"
+},
+{
+  "kelime": "tutar"
+},
+{
+  "kelime": "tüzel"
+},
+{
+  "kelime": "ucube"
+},
+{
+  "kelime": "uğraş"
+},
+{
+  "kelime": "ukala"
+},
+{
+  "kelime": "umumi"
+},
+{
+  "kelime": "unsur"
+},
+{
+  "kelime": "utanç"
+},
+{
+  "kelime": "uyarı"
+},
+{
+  "kelime": "uygar"
+},
+{
+  "kelime": "uygun"
+},
+{
+  "kelime": "uysal"
+},
+{
+  "kelime": "uzman"
+},
+{
+  "kelime": "ünvan"
+},
+{
+  "kelime": "üçgen"
+},
+{
+  "kelime": "ücret"
+},
+{
+  "kelime": "ümmet"
+},
+{
+  "kelime": "üzgün"
+},
+{
+  "kelime": "üzücü"
+},
+{
+  "kelime": "üreme"
+},
+{
+  "kelime": "ürgüp"
+},
+{
+  "kelime": "üşenç"
+},
+{
+  "kelime": "üryan"
+},
+{
+  "kelime": "ünite"
+},
+{
+  "kelime": "ünlem"
+},
+{
+  "kelime": "vagon"
+},
+{
+  "kelime": "vahim"
+},
+{
+  "kelime": "vebal"
+},
+{
+  "kelime": "vefat"
+},
+{
+  "kelime": "vezir"
+},
+{
+  "kelime": "vücut"
+},
+{
+  "kelime": "vergi"
+},
+{
+  "kelime": "verem"
+},
+{
+  "kelime": "vurgu"
+},
+{
+  "kelime": "vokal"
+},
+{
+  "kelime": "yağış"
+},
+{
+  "kelime": "yayık"
+},
+{
+  "kelime": "yaren"
+},
+{
+  "kelime": "yerel"
+},
+{
+  "kelime": "yegah"
+},
+{
+  "kelime": "yitik"
+},
+{
+  "kelime": "yolcu"
+},
+{
+  "kelime": "yılan"
+},
+{
+  "kelime": "yemiş"
+},
+{
+  "kelime": "yerel"
+},
+{
+  "kelime": "yoğun"
+},
+{
+  "kelime": "yorum"
+},
+{
+  "kelime": "yutak"
+},
+{
+  "kelime": "yüzey"
+},
+{
+  "kelime": "yuvar"
+},
+{
+  "kelime": "zafer"
+},
+{
+  "kelime": "zalim"
+},
+{
+  "kelime": "zaman"
+},
+{
+  "kelime": "zanlı"
+},
+{
+  "kelime": "zehir"
+},
+{
+  "kelime": "zebra"
+},
+{
+  "kelime": "zihin"
+},
+{
+  "kelime": "zerre"
+},
+{
+  "kelime": "zımba"
+},
+{
+  "kelime": "zorba"
+},
+{
+  "kelime": "zombi"
+},
+{
+  "kelime": "zurna"
+},
+{
+  "kelime": "zümre"
+},
+{
+  "kelime": "zirve"
+},
+{
+  "kelime": "zinde"
+},
+{
+  "kelime": "zıbın"
+}
+]
+}
